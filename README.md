@@ -44,9 +44,9 @@ This study aims to explore the potential relationships and impacts of ESG (Envir
 - `statsmodels`
 - `sklearn`
 
-## How to Run the Project
-Please ensure you have Python installed along with the libraries mentioned above. Clone the repository and run the Jupyter Notebook to replicate the analysis.
+## Running the Project
+Ensure Python and the above-mentioned libraries are installed. The project script is a `.py` file developed in Spyder. To run the analysis, open and execute the script in a Python environment like Spyder or any other IDE that supports Python scripts, do not forget to change file-path when importing the data from both Sustainalytics and SP500 prices.
 
 ## Note
-This project is for educational purposes and demonstrates data analysis and visualization techniques in Python.
+This project is for educational purposes and demonstrates data analysis and visualization techniques in Python. Please refer to the accompanying PDF for detailed study results.
 
